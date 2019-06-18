@@ -14,4 +14,8 @@
 
 ## List of code wizards
 - Taylor LaMar
+<<<<<< HEAD
 - Alfredo Diaz-Avina
+=======
+- Richard Neal
+>>>>>>> 3a860669fbf011f8b3799adb3ec964660f58990f
