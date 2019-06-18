@@ -1,3 +1,7 @@
+#JEFFREY COSIO
+
+![lolz](https://media.giphy.com/media/l1J3z59i2bj3M6sEM/giphy.gif) 
+
 # Hi there!
 
 ##### This is your mission. Follow the steps listed below, or perish.
@@ -32,6 +36,9 @@
 - Richard Neal
 
 - Alfredo Diaz
+
+- Nicholas Anderson
+- Joel Boersma
 
 
 >>>>>>> d76c7314965a6ebf4a107724e466d0a860277590
