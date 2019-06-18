@@ -14,13 +14,14 @@
 
 ## List of code wizards
 - Taylor LaMar
-<<<<<<< HEAD
-<<<<<< HEAD
-- Alfredo Diaz-Avina
-=======
+
 - Richard Neal
->>>>>>> 3a860669fbf011f8b3799adb3ec964660f58990f
-=======
+
+- Andrew Ng
+
+- Frederick Tan
+
+- Richard Neal
 
 - Jacob Hilliker
 
@@ -31,4 +32,4 @@
 - Alfredo Diaz
 
 
->>>>>>> 2ac0bf6f997d4d109564ad6a4f08de86f2283000
+>>>>>>> d76c7314965a6ebf4a107724e466d0a860277590
