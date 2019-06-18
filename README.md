@@ -1,6 +1,6 @@
 #JEFFREY COSIO
 
-![lolz](https://media.giphy.com/media/l1J3z59i2bj3M6sEM/giphy.gif)
+![lolz](https://media.giphy.com/media/l1J3z59i2bj3M6sEM/giphy.gif) 
 
 # Hi there!
 
