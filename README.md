@@ -14,5 +14,9 @@
 
 ## List of code wizards
 - Taylor LaMar
+
 - Jacob Hilliker
 
+- Frederick Tan
+
+- Richard Neal
