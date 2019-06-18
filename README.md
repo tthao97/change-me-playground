@@ -15,8 +15,16 @@
 ## List of code wizards
 - Taylor LaMar
 
+<<<<<<< HEAD
 - Andrew Ng
 
 - Frederick Tan
 
 - Richard Neal
+
+- Jacob Hilliker
+
+- Frederick Tan
+
+- Richard Neal
+
