@@ -10,3 +10,7 @@
 6. Save this change as a commit. The commit message should be, "Hey, this works"
 7. Push both of these commits from your branch to the `master` branch.
 8. Behold the great things (or irreparable damage) you have done.
+
+## List of code wizards
+- Taylor LaMar
+
