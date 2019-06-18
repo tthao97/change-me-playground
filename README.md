@@ -14,4 +14,5 @@
 
 ## List of code wizards
 - Taylor LaMar
+- Frederick Tan
 
