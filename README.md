@@ -14,4 +14,4 @@
 
 ## List of code wizards
 - Taylor LaMar
-
+- Alfredo Diaz-Avina
