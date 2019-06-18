@@ -15,6 +15,8 @@
 ## List of code wizards
 - Taylor LaMar
 
+- Richard Neal
+
 - Andrew Ng
 
 - Frederick Tan
@@ -27,3 +29,7 @@
 
 - Richard Neal
 
+- Alfredo Diaz
+
+
+>>>>>>> d76c7314965a6ebf4a107724e466d0a860277590
